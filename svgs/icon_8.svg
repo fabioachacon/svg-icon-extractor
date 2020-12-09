@@ -1,0 +1,27 @@
+<svg width="146" height="145" viewBox="0 0 146 145" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="72.5" cy="72.5" r="62.5" stroke="#3BAB64" stroke-width="2"/>
+                            <circle cx="72.5" cy="72.5" r="44.5" fill="#3BAB64"/>
+                            <mask id="advantages-icon-2-mask0" maskUnits="userSpaceOnUse" x="16" y="18" width="57" height="89">
+                                <mask id="advantages-icon-2-path-3-inside-1" fill="white">
+                                    <path d="M57.1324 18.1301C48.2797 20.6323 40.1718 25.2584 33.5133 31.6064C26.8548 37.9544 21.8471 45.8322 18.9253 54.5555C16.0035 63.2788 15.256 72.5836 16.7477 81.6615C18.2394 90.7393 21.9252 99.3156 27.4849 106.645L72.5 72.5L57.1324 18.1301Z"/>
+                                </mask>
+                                <path d="M57.1324 18.1301C48.2797 20.6323 40.1718 25.2584 33.5133 31.6064C26.8548 37.9544 21.8471 45.8322 18.9253 54.5555C16.0035 63.2788 15.256 72.5836 16.7477 81.6615C18.2394 90.7393 21.9252 99.3156 27.4849 106.645L72.5 72.5L57.1324 18.1301Z" fill="white" stroke="white" stroke-width="4" mask="url(#advantages-icon-1-path-3-inside-1)"/>
+                            </mask>
+                            <g mask="url(#advantages-icon-1-mask0)">
+                                <circle cx="72.5" cy="72.5" r="55.5" stroke="#3BAB64" stroke-width="2" stroke-dasharray="2 5"/>
+                            </g>
+                            <mask id="advantages-icon-2-mask1" maskUnits="userSpaceOnUse" x="72" y="59" width="73" height="76">
+                                <mask id="advantages-icon-2-path-5-inside-2" fill="white">
+                                    <path d="M110.276 134.381C122.728 126.779 132.597 115.598 138.593 102.298C144.589 88.9986 146.434 74.1994 143.885 59.8349L72.5 72.5L110.276 134.381Z"/>
+                                </mask>
+                                <path d="M110.276 134.381C122.728 126.779 132.597 115.598 138.593 102.298C144.589 88.9986 146.434 74.1994 143.885 59.8349L72.5 72.5L110.276 134.381Z" fill="white" stroke="white" stroke-width="4" mask="url(#advantages-icon-1-path-5-inside-2)"/>
+                            </mask>
+                            <g mask="url(#advantages-icon-1-mask1)">
+                                <circle cx="72.5" cy="72.5" r="71.5" stroke="#3BAB64" stroke-width="2"/>
+                            </g>
+                            <circle cx="142" cy="57" r="3" stroke="#3BAB64" stroke-width="2"/>
+                            <path d="M60.2148 49.1074C85.6791 49.1074 76.6434 80.3217 100.465 80.3217" stroke="white" stroke-width="3"/>
+                            <path d="M52 45V91H107.857" stroke="white" stroke-width="3"/>
+                            <path d="M63.5 56.5V81.9643" stroke="#6FCF97" stroke-width="3"/>
+                            <path d="M73.3574 68L73.3574 81.9643" stroke="#6FCF97" stroke-width="3"/>
+                        </svg>
