@@ -6,7 +6,6 @@ const { JSDOM } = jsdom;
 
 const proxy_url = 'https://cors-anywhere.herokuapp.com/';
 const BASE_URL = 'https://ru.geptral.com/what-is-ademetionine/';
-const bbc_url = 'https://www.bbc.com/portuguese';
 
 const fetchIcons = async (url) => {
     try{
